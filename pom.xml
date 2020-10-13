@@ -12,7 +12,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-config-server-cloud-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-config-server-cloud-demo</name>
+	<name>
+</name>
 	<description>spring config server demo project for Spring Boot</description>
 
 	<properties>
