@@ -11,5 +11,4 @@ public class CentralizedConfigurationServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CentralizedConfigurationServiceApplication.class, args);
 	}
-
 }
